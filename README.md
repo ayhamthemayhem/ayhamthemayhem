@@ -31,4 +31,3 @@ Making hip-hop beats · DIY electronics · Reading · Swimming · 🍀 taking br
 
 ---
 
-*I like solving problems, building useful things, and making sense of messy challenges.*
