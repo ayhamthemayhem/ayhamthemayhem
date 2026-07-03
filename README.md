@@ -12,7 +12,7 @@ I got into tech by assembling PCs for friends and flashing custom ROMs on Androi
 JavaScript · TypeScript · Node.js · Python · React · Vue · React Native · Electron
 
 **Data & Infra**  
-CouchDB · PouchDB · SQL · Kafka · Docker · Git
+CouchDB · PouchDB · SQL · Kafka · Docker · Git · MongoDB
 
 **Other interests**  
 Networking · Robotics · IoT
@@ -21,13 +21,12 @@ Networking · Robotics · IoT
 
 ## 🌍 Languages
 
-Arabic (native) · English · German
+Arabic · English · German
 
 ---
 
 ## 🎧 Outside of code
 
-Making hip-hop beats · DIY electronics · Reading · Swimming · 🍀 taking breaks at 4:20 for good luck
-
+Making hip-hop beats · DIY electronics · Reading · Swimming 
 ---
 
