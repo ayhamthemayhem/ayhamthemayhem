@@ -1,4 +1,4 @@
-# Hey I am Ayham
+# Hey I am Ayham 👋
 
 Full-stack engineer in Berlin. Nearly ten years of it now, across frontend, backend, mobile and developer tooling.
 
