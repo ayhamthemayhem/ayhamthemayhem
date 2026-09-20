@@ -1,32 +1,19 @@
-# Hey, I'm Ayham 👋
+# Ayham Kteash
 
-Senior Software Engineer based in **Berlin, Germany** — with a background spanning frontend, backend, mobile, and everything in between.
+Full-stack engineer in Berlin. Nearly ten years of it now, across frontend, backend, mobile and developer tooling.
 
-I got into tech by assembling PCs for friends and flashing custom ROMs on Android phones on the bus to school. That curiosity never really went away — I've been self-teaching ever since.
+It started with building PCs for friends and flashing custom ROMs on my phone on the bus to school. I bricked a few. I've been self-taught ever since.
 
----
+I run [Auxiliary IO](https://auxiliary.io). I take client projects from the first conversation through architecture, build, deploy and launch.
 
-## 🛠 What I work with
+### The toolbox
 
-**Languages & Frameworks**  
-JavaScript · TypeScript · Node.js · Python · React · Vue · React Native · Electron
+TypeScript and JavaScript most days. AdonisJS, React, Vue, Node, React Native, Electron. PostgreSQL, CouchDB and PouchDB when it needs to work offline.
 
-**Data & Infra**  
-CouchDB · PouchDB · SQL · Kafka · Docker · Git · MongoDB
+Arabic, English, German.
 
-**Other interests**  
-Networking · Robotics · IoT
+### Away from the keyboard
 
----
+Making music and beats beats, taking apart electronics that were working fine, reading, swimming.
 
-## 🌍 Languages
-
-Arabic · English · German
-
----
-
-## 🎧 Outside of code
-
-Making hip-hop beats · DIY electronics · Reading · Swimming 
----
-
+📫 [ay@auxiox.com](mailto:ay@auxiox.com)
