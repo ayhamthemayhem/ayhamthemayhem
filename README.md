@@ -14,6 +14,6 @@ Arabic, English, German.
 
 ### Away from the keyboard
 
-Making music and beats beats, taking apart electronics that were working fine, reading, swimming.
+Making music and beats, taking apart electronics that were working fine, reading, swimming.
 
 📫 [ay@auxiox.com](mailto:ay@auxiox.com)
